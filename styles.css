@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: rgb(231, 168, 106);
+    background-color: linen;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,11 +12,4 @@ body {
 
 main {
     text-align: center;
-}
-
-#datetime {
-    background-color: rgb(218, 229, 104);
-    width: 300px;
-    margin: auto;
-    border: 1px solid grey;
 }
